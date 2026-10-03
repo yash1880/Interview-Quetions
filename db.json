@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "title": "What is Virtual DOM?",
+      "category": "React JS",
+      "difficulty": "Medium",
+      "status": "Solved",
+      "notes": "React compares virtual DOM with previous state before updating real DOM. Practice with a small examples.",
+      "lastPracticed": "2026-10-03",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Explain useState with example",
+      "category": "React JS",
+      "difficulty": "Easy",
+      "status": "Solved",
+      "lastPracticed": "2026-09-21",
+      "notes": "Used for local state management in function components. Good example is counter and toggle state."
+    },
+    {
+      "id": "3",
+      "title": "What is a promise in JavaScript?",
+      "category": "JavaScript",
+      "difficulty": "Medium",
+      "status": "Not Solved",
+      "lastPracticed": "2026-09-12",
+      "notes": "Need to explain pending, fulfilled and rejected states with async/await examples."
+    },
+    {
+      "id": "4",
+      "title": "How do you optimize a React component?",
+      "category": "React JS",
+      "difficulty": "Hard",
+      "status": "Solved",
+      "lastPracticed": "2026-09-23",
+      "notes": "Use memoization, avoid unnecessary re-renders, and split state logically."
+    },
+    {
+      "id": "5",
+      "title": "Difference between map and filter",
+      "category": "JavaScript",
+      "difficulty": "Easy",
+      "status": "To Revise",
+      "lastPracticed": "2026-09-16",
+      "notes": "Map transforms each item while filter returns subset matching a condition."
+    },
+    {
+      "id": "6",
+      "title": "What are React props?",
+      "category": "React JS",
+      "difficulty": "Easy",
+      "status": "Solved",
+      "lastPracticed": "2026-09-25",
+      "notes": "Props pass read-only data from a parent component to its children."
+    },
+    {
+      "id": "7",
+      "title": "When should you use useEffect?",
+      "category": "React JS",
+      "difficulty": "Medium",
+      "status": "To Revise",
+      "lastPracticed": "2026-09-26",
+      "notes": "Explain synchronization with external systems, dependencies, and cleanup."
+    },
+    {
+      "id": "8",
+      "title": "What is event delegation?",
+      "category": "JavaScript",
+      "difficulty": "Medium",
+      "status": "Not Solved",
+      "lastPracticed": "2026-09-20",
+      "notes": "Review event bubbling and handling events on a shared ancestor."
+    },
+    {
+      "id": "9",
+      "title": "Explain closures in JavaScript",
+      "category": "JavaScript",
+      "difficulty": "Hard",
+      "status": "Solved",
+      "lastPracticed": "2026-09-28",
+      "notes": "A closure retains access to its lexical scope after the outer function returns."
+    },
+    {
+      "id": "10",
+      "title": "What is middleware in Express?",
+      "category": "Node.js",
+      "difficulty": "Medium",
+      "status": "To Revise",
+      "lastPracticed": "2026-09-24",
+      "notes": "Describe the request-response lifecycle and the next callback."
+    },
+    {
+      "id": "11",
+      "title": "How does the Node.js event loop work?",
+      "category": "Node.js",
+      "difficulty": "Hard",
+      "status": "Not Solved",
+      "lastPracticed": "2026-09-22",
+      "notes": "Study event-loop phases, timers, I/O callbacks, and microtasks."
+    },
+    {
+      "id": "12",
+      "title": "What is a hash map?",
+      "category": "DSA",
+      "difficulty": "Easy",
+      "status": "Solved",
+      "lastPracticed": "2026-09-27",
+      "notes": "Explain key-value storage, average lookup complexity, and collisions."
+    },
+    {
+      "title": "Find the first non-repeating character",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "status": "Not Solved",
+      "notes": "Use a frequency map, then scan the string in its original order.",
+      "lastPracticed": "2026-09-29",
+      "id": "13"
+    },
+    {
+      "id": "14",
+      "title": "Explain time complexity with an example",
+      "category": "DSA",
+      "difficulty": "Medium",
+      "status": "Not Solved",
+      "lastPracticed": "2026-09-17",
+      "notes": "Practice identifying complexity for loops, nested loops, and binary search."
+    },
+    {
+      "id": "15",
+      "title": "What is horizontal scaling?",
+      "category": "System Design",
+      "difficulty": "Medium",
+      "status": "Solved",
+      "lastPracticed": "2026-09-30",
+      "notes": "Add more machines to distribute workload; compare with vertical scaling."
+    },
+    {
+      "id": "16",
+      "title": "How does a load balancer help?",
+      "category": "System Design",
+      "difficulty": "Easy",
+      "status": "To Revise",
+      "lastPracticed": "2026-09-28",
+      "notes": "Discuss traffic distribution, health checks, and availability."
+    },
+    {
+      "id": "17",
+      "title": "What is the difference between Flexbox and Grid?",
+      "category": "HTML/CSS",
+      "difficulty": "Easy",
+      "status": "Solved",
+      "lastPracticed": "2026-09-26",
+      "notes": "Flexbox is primarily one-dimensional; Grid handles rows and columns together."
+    },
+    {
+      "id": "18",
+      "title": "How does CSS specificity work?",
+      "category": "HTML/CSS",
+      "difficulty": "Medium",
+      "status": "Not Solved",
+      "lastPracticed": "2026-09-15",
+      "notes": "Compare selectors by ID, class, and element specificity, then source order."
+    },
+    {
+      "id": "19",
+      "title": "What is a controlled component in React?",
+      "category": "React JS",
+      "difficulty": "Medium",
+      "status": "Solved",
+      "lastPracticed": "2026-10-01",
+      "notes": "The input value is driven by React state and updated through an event handler."
+    },
+    {
+      "id": "20",
+      "title": "How do you prevent cross-site scripting?",
+      "category": "JavaScript",
+      "difficulty": "Hard",
+      "status": "To Revise",
+      "lastPracticed": "2026-09-30",
+      "notes": "Cover output encoding, input handling, and avoiding unsafe HTML injection."
+    }
+  ]
+}
